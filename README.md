@@ -1,15 +1,15 @@
-Note: This (C++) version of the project is unlikely to be update. I am working on converting the project to Ruby, and any further updates are likely to be on that version.
+Note: This (C++) version of the project is unlikely to be updated. I am working on converting the project to Ruby, and any further updates are likely to be on that version.
 
 
 # Declination
 
 ## What?
 
-A text adventure in thes style of Zork, set in a space train
+A text adventure in the style of Zork, set in a space train
 
 ## Usage
 
-cd into declination/  
+cd into declination-cpp/  
 `make`  
 `./declination.exe`
 
