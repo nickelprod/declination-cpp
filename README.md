@@ -1,4 +1,4 @@
-Note: This project will likely soon be moved to a repository on a different account, specifically for Nickel (me and a friend) projects. All new updates will be there, and this message will be updated when the move happens.
+Note: This (C++) version of the project is unlikely to be update. I am working on converting the project to Ruby, and any further updates are likely to be on that version.
 
 
 # Declination
@@ -23,7 +23,7 @@ At game start, a random passenger is selected to be a terrorist. The end can cha
 
 Saving a passenger increases the player's score. Different endings give different score bonus. The score can only be seen by beating the game.
 
-The game has a turn limit, after which the game ends  if not yet beaten.
+The game has a turn limit, after which the game ends if not yet beaten.
 
 A debug mode that outputs debug info (parsed input, who the terrorist is, etc)  
 A demo mode that only has three rooms
@@ -43,7 +43,7 @@ Description for each item
 Different terrorist dialogue depending on which passenger is the terrorist  
 A method for figuring out who the terrorist is  
 Different clues for each possible terrorist  
-Away of fighting and defeating the terrorist
+A way of fighting and defeating the terrorist
 
 Certain passengers stick together (e.g. mother and child)
 
